@@ -314,7 +314,7 @@ h1,h2,h3,h4,h5
         width: 100%;
         height: 100%;
         position: absolute;
-        padding-top: 60px;
+        padding-top: 20px;
         transition: all 0.4s ease-in-out;
     }
 #portfolio .portfolio-thumb:hover .portfolio-overlay
